@@ -1,2 +1,3 @@
 # Student-Performance-and-Attendance
-In this repository, i will be doing EDA for student performance and attendance. I have 5 messy Datasets(attendance, performance, homework, students and parent-teacher-communication) with difference columns.
+# Project Objective
+Clean and analyze a synthetic student performance dataset to simulate real-world messy educational data and extract meaningful academic and behavioral insights.
